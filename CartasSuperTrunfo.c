@@ -88,6 +88,8 @@ int main() {
     printf("Digite o número de pontos turísticos do estado: \n");
     scanf("%d", &numero_de_pontos_turisticos1);
 
+    printf("\n");
+
     printf("Carta 2\n");
     printf("Estado: %s\n", estado1);
     printf("Código: %s\n", codigo1);
